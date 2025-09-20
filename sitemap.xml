@@ -8,7 +8,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- صفحات أخرى محتملة (تعديل حسب موقعك) -->
+  <!-- صفحات أخرى محتملة -->
   <url>
     <loc>https://adelichque.github.io/watiptv1/about.html</loc>
     <changefreq>monthly</changefreq>
