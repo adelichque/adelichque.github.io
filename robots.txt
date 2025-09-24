@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://adelichque.github.io/watiptv1/sitemap.xml
+Sitemap: https://adelichque.github.io/sitemap.xml
