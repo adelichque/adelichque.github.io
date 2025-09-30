@@ -145,5 +145,13 @@
   });
 </script>
 
-</body>
+</body><script>
+  if (window.location.protocol !== "https:") {
+    window.location.href = "https://" + window.location.hostname + window.location.pathname;
+  }
+  if (window.location.hostname === "www.watiptv.com") {
+    window.location.href = "https://watiptv.com" + window.location.pathname;
+  }
+</script>
+
 </html>
